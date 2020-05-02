@@ -1,2 +1,2 @@
 # tony-deleon
-Starting a new horizon. I needed a repo for future expancion.
+Starting a new horizon. I needed a repo for future expancson.
